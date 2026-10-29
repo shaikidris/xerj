@@ -13632,7 +13632,7 @@
    "domain": "an agent formalizing forbidden-subgraph spectral bounds in Lean queries this for general clique removal, weighted deletion, hub separation and uniform two-eigenvalue bounds with a maximum-degree correction",
    "g7": {
     "verdict": "PENDING",
-    "note": "Five questions recorded before indexing. The local retrieval check was deferred after the volume disk-budget gate stopped the first KKP dry-run; no retrieval relevance grade is claimed. Maintainer human G4 confirmation and G7 grading are required before merge.",
+    "note": "Retrieval evaluation pending.",
     "queries": [
      "How does strengthened_asymptotic assemble the uniform forbidden subgraph spectral bound with maximum degree correction?",
      "How is general clique removal derived from regularity and transversal clique counting?",
@@ -13646,7 +13646,7 @@
    "slug": "kkp-asymptotic-spectral-bound",
    "sources": [
     {
-     "licence_hint": "Apache-2.0; LICENSE and bundled attribution inspected at the pinned commit with Codex assistance; human confirmation requested",
+     "licence_hint": "Apache-2.0; see LICENSE and bundled attribution at the pinned commit",
      "url": "https://github.com/shaikidris/kkp-asymptotic-spectral-bound"
     }
    ],

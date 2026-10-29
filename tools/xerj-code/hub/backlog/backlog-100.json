@@ -13654,7 +13654,7 @@
    "domain": "an agent formalizing spectral graph inequalities in Lean queries this for the edge-clique scalar certificate, completely positive spectral transfer and localized two-eigenvalue bound for finite noncomplete graphs",
    "g7": {
     "verdict": "PENDING",
-    "note": "Five questions recorded before indexing. Local dry-run stopped at the disk-budget decision gate; no retrieval relevance grade is claimed. Maintainer human G4 confirmation and G7 grading are required before merge.",
+    "note": "Retrieval evaluation pending.",
     "queries": [
      "How does edgeLocalizedNoncompleteUnordered prove the localized two eigenvalue bound for noncomplete graphs?",
      "Where is edgeCliqueNum defined as the largest clique containing an edge?",
@@ -13668,7 +13668,7 @@
    "slug": "kkp-localized-spectral-bound",
    "sources": [
     {
-     "licence_hint": "Apache-2.0; LICENSE and bundled attribution inspected at the pinned commit with Codex assistance; human confirmation requested",
+     "licence_hint": "Apache-2.0; see LICENSE and bundled attribution at the pinned commit",
      "url": "https://github.com/shaikidris/kkp-localized-spectral-bound"
     }
    ],

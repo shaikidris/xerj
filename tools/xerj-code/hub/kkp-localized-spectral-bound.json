@@ -14,7 +14,7 @@
     "use": "adapt-with-attribution",
     "by": "Codex for @shaikidris",
     "at": "2026-10-29",
-    "note": "Opened LICENSE, SOURCE_PROVENANCE.md and bundled BN source headers at this pin. Apache-2.0 confirmed. Retain Shaik Idris implementation credit, Domagoj Bradač mathematical attribution for the edge-clique scalar argument, and Shengtong Zhang's BN/Motzkin–Straus copyright and Apache-2.0 notices. Mathlib remains a pinned external dependency. Codex-assisted source inspection for the owner-authorized contribution; maintainer human G4 confirmation requested."
+    "note": "Apache-2.0 in LICENSE and bundled BN headers. Preserve Shaik Idris implementation credit, Domagoj Bradač's mathematical attribution for the edge-clique scalar argument, and Shengtong Zhang's BN/Motzkin–Straus copyright and Apache-2.0 notices. Mathlib is a pinned external dependency. Human licence confirmation pending."
    }
   }
  ]

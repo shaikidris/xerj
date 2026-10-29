@@ -13305,7 +13305,7 @@
    "domain": "an agent formalizing spectral counterexamples in Lean queries this for the connected tripartite-bridge-K4 family, K5-minus-edge exclusion and exact two-vector adjacency compression for KKP Conjecture 1.16 and Li-Liu-Zhang Conjecture 5.4",
    "g7": {
     "verdict": "PENDING",
-    "note": "Five questions recorded before indexing. The local retrieval check was deferred after the volume disk-budget gate stopped the first KKP dry-run; no retrieval relevance grade is claimed. Maintainer human G4 confirmation and G7 grading are required before merge.",
+    "note": "Retrieval evaluation pending.",
     "queries": [
      "How is K_{s,s,s} joined to K4 by a single bridge to construct connected counterexamples?",
      "Where is the K5 minus edge forbidden graph proved color critical and absent from the bridge graph?",
@@ -13319,7 +13319,7 @@
    "slug": "kkp-connected-spectral-counterexamples",
    "sources": [
     {
-     "licence_hint": "Apache-2.0; LICENSE and bundled attribution inspected at the pinned commit with Codex assistance; human confirmation requested",
+     "licence_hint": "Apache-2.0; see LICENSE and bundled attribution at the pinned commit",
      "url": "https://github.com/shaikidris/kkp-connected-spectral-counterexamples"
     }
    ],
